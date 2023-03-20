@@ -23,7 +23,7 @@ html {
 
 span {
     position: absolute;
-    background: url(../img/heart.png);
+    background: url(../img/midfinger.png);
     background-size: cover;
     pointer-events: none;
     transform: translate(-50%,-50%);
